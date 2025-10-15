@@ -27,5 +27,4 @@ Instruction how to setup the repo can be found <a href="instructions.md">here</a
 <summary>:blue_book: Plugin readme</summary>
 <blockquote>%readme%</blockquote>
 </details>
-%screenshots%
 <br>

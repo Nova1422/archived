@@ -44,7 +44,9 @@ Instruction how to setup the repo can be found <a href="instructions.md">here</a
 >author: Nova.
 <details>
 <summary>:blue_book: Plugin readme</summary>
-<blockquote>spawns captureable Archon ships in the system "Persitar" every 10 minutes, PS- pre existing archon cant be captured nor will be angered. And capturing the spawned archons will not be any easier
+<blockquote>spawns captureable Archon ships in the system "Persitar" every 10 minutes, PS- pre existing archon can't be captured nor will be angered. And capturing the spawned archons will not be any easier
+
+
 
 </blockquote>
 </details>
